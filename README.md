@@ -78,10 +78,8 @@ Open the .pbix file using Power BI Desktop.
 ## Project Structure
 notebooks/       -> Python EDA & cleaning  
 sql/             -> SQL queries  
-dashboard/       -> Power BI dashboard file  
-report/          -> Analysis report  
+dashboard/       -> Power BI dashboard file   
 presentation/    -> PPT slides  
 
 ## Contact
 Sulthon Avidi  
-Data Analytics Enthusiast
